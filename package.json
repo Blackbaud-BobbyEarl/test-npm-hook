@@ -1,0 +1,22 @@
+{
+  "name": "test-npm-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "echo \"TESTING PRE INSTALL\"",
+    "postinstall": "echo \"TESTING POST INSTALL\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackbaud-BobbyEarl/test-npm-hook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blackbaud-BobbyEarl/test-npm-hook/issues"
+  },
+  "homepage": "https://github.com/Blackbaud-BobbyEarl/test-npm-hook#readme"
+}
